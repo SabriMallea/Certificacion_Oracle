@@ -1,11 +1,7 @@
 <!DOCTYPE html> <html lang="es"> 
   <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <style> 
-      body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background-color: #f7f7f7; } 
-      h1 { color: #ff00ff; /* Fucsia */ } p { color: #8a2be2; /* Violeta medio */ } 
-      a { color: #ffff00; /* Amarillo */ text-decoration: none; font-weight: bold; } 
-    </style> 
-  </head> 
+    #<span style="color:#ff00ff;">Certificación Oracle</span>
+  </head>
   <body> 
     <h1>Certificación Oracle</h1>
     <p>Enlaces útiles para estudiar:</p> 
