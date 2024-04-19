@@ -3,7 +3,6 @@
    
   </head>
   <body> 
-     #<span style="color:#ff00ff;">Certificación Oracle</span>
     <h1>Certificación Oracle</h1>
     <p>Enlaces útiles para estudiar:</p> 
     <ul> 
