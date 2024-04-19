@@ -1,8 +1,9 @@
 <!DOCTYPE html> <html lang="es"> 
   <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    #<span style="color:#ff00ff;">Certificación Oracle</span>
+   
   </head>
   <body> 
+     #<span style="color:#ff00ff;">Certificación Oracle</span>
     <h1>Certificación Oracle</h1>
     <p>Enlaces útiles para estudiar:</p> 
     <ul> 
