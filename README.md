@@ -11,6 +11,7 @@
       <li><a href="https://mylearn.oracle.com/ou/learning-path/java-explorer/79726">Oracle University - Java Explorer</a></li> 
       <li><a href="https://enthuware.com/oca-ocp-java-certification-resources/268-oca-java-8-sample-questions">Recursos de Ejercicios para la certificación OCA OCP Java</a></li>
       <li><a href="https://enthuware.com/">Sitio web para practicar</a></li> 
+      <li><a href="https://javautodidacta.es/tiempo-en-java-localdate-localtime/"> Entendiendo las fechas </a></li>
     </ul> 
   </body> 
   </html>
