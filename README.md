@@ -16,7 +16,8 @@
         <ul>
             <li><a href="https://javautodidacta.es/tiempo-en-java-localdate-localtime/">Toda la informacion necesaria para entender las fechas en Java</a></li>
             <li><a href="https://github.com/FabyRossetto/CalculadoraMaternal">Practicando con fechas: Calculadora de la fecha probable de parto y embarazo</a></li>
-            <li><a href="https://www.youtube.com/watch?v=qBzmSdkvg5U">Video de YouTube mostrando como funciona el proyecto anterior</a></li>
+            <li><a href="https://www.youtube.com/watch?v=qBzmSdkvg5U">Video de YouTube mostrando como funciona el proyecto anterior</a></li> 
+          <li><a href="https://github.com/gianinazcurra/CalculadoraPeriodoMenstrual/blob/main/CalculadoraMenstruacion.java">Practicando con fechas: Calculadora del próximo periodo menstrual</a></li>
        </ul>
      </li>
     </ul> 
