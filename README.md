@@ -10,7 +10,7 @@
       <li><a href="https://drive.google.com/drive/u/0/folders/18HwRCuU2PSuubbKkK8j1pUGAHY8ZtKzm">Enlace al libro en Google Drive</a></li> 
       <li><a href="https://mylearn.oracle.com/ou/learning-path/java-explorer/79726">Oracle University - Java Explorer</a></li> 
       <li><a href="https://enthuware.com/oca-ocp-java-certification-resources/268-oca-java-8-sample-questions">Recursos de Ejercicios para la certificación OCA OCP Java</a></li>
-      <li><a href="•	https://coderanch.com/c/java">Foro donde se pueden plantear dudas: JavaRanch OCA Forum</a></li> 
+      <li><a href="https://coderanch.com/c/java">Foro donde se pueden plantear dudas: JavaRanch OCA Forum</a></li> 
       <li>
         <span>Sitios web con preguntas de examenes para practicar</span>
         <ul>
